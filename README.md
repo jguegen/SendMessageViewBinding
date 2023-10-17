@@ -10,7 +10,7 @@ utilizando sufijos como por ejemplo con values (directorio principal) y values-e
 También aprendimos a crear la información de About Us con una activity que es un pequeño apartado que mostrará
 información del autor y de la aplicación.
 
-![Captura de SendMessage](https://github.com/jguegen/SendMessageViewBinding.git/screenshot/SendMessage.png?raw=true)
+![Captura de SendMessage](https://github.com/jguegen/SendMessageViewBinding/blob/master/screenshot/SendMessage.png?raw=true)
 
 
-![Captura de View](https://github.com/jguegen/SendMessageViewBinding.git/screenshot/View.png?raw=true)
+![Captura de View](https://github.com/jguegen/SendMessageViewBinding/blob/master/screenshot/SendMessage.png?raw=true)
