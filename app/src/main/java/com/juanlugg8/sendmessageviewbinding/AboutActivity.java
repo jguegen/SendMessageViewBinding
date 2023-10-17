@@ -12,6 +12,7 @@ class AboutActivity extends com.danielstone.materialaboutlibrary.MaterialAboutAc
     protected MaterialAboutList getMaterialAboutList(@NonNull Context context) {
         return new MaterialAboutList.Builder()
                 .build(); // This creates an empty screen, add cards with .addCard()
+
     }
 
     @Override
